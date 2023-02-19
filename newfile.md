@@ -65,5 +65,5 @@
 
 Для создания новой ветки используется команда:
 
-    create new branch
+   git branch name
     
